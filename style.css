@@ -1,0 +1,23 @@
+.card{
+    width: 40%;
+    margin: 2% 5% 5% 30%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px 0px rgba(255,255,255,0.47);
+}
+#submit{
+    margin-left: 38%;
+    width: 120px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+body{
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);  
+}
+#malespan,#femalespan{
+    margin-left: 5%;
+}
+
+#gender{
+    padding: 0;
+}
